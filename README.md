@@ -1,2 +1,2 @@
 # tickIT
-a custom ticketing system for Somerville Public Library IT.x
+Building a custom ticketing system for Somerville Public Library IT.
